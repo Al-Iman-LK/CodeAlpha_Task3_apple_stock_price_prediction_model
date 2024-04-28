@@ -3,6 +3,7 @@
 This repository contains a Python script for building a predictive model using linear regression to predict the closing price of Apple's stock based on the opening, high, and low prices.
 
 This project is done as a part of "CodeAlpha Internship (Data Science)" Task_3
+
 STUDENT ID: CA/DS/12451 
 Name: A.N. AL IMAN
 
@@ -37,9 +38,9 @@ To run the script, use the following command:
 ## Requirements
 The script requires the following Python libraries:
 
-pandas
-sklearn
-seaborn
+pandas |
+sklearn |
+seaborn |
 matplotlib
 
 ## License
