@@ -4,7 +4,7 @@ This repository contains a Python script for building a predictive model using l
 
 This project is done as a part of "CodeAlpha Internship (Data Science)" Task_3
 
-STUDENT ID: CA/DS/12451 
+STUDENT ID: CA/DS/12451  |  
 Name: A.N. AL IMAN
 
 ## Dataset
